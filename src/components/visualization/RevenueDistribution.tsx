@@ -21,7 +21,7 @@ import {
 export const description = "A pie chart with a label list";
 
 const chartData = [
-	{ category: "subscription", value: 35, fill: "var(--color-subscription)" },
+	{ category: "partnerships", value: 35, fill: "var(--color-subscription)" },
 	{ category: "partnerships", value: 45, fill: "var(--color-partnerships)" },
 	{ category: "sponsorships", value: 20, fill: "var(--color-sponsorships)" },
 ];
